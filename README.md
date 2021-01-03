@@ -11,5 +11,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@lucasginard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/lucasginard)</br>
 
 ## 📊Stats/Estadística:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGinard&theme=dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGinard&theme=dark&show_icons=true&hide=["contribs","prs","issues"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGinard&theme=dark&show_icons=true)](https://github.com/LucasGinard/github-readme-stats)
+
