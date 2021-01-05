@@ -8,7 +8,8 @@
 
 
 ## 🔎Find me at/Encuéntrame en:
-[![Twitter](https://img.shields.io/badge/Twitter-@lucasginard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/lucasginard)</br>
+[![Twitter](https://img.shields.io/badge/Twitter-@lucasginard-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/lucasginard)
+[![Linkedin](https://img.shields.io/badge/Linkedin-LucasGinard-005c94?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://py.linkedin.com/in/lucasginard)</br>
 
 ## 📊Stats/Estadística:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGinard&theme=dark&show_icons=true&hide=contribs,prs,issues)
