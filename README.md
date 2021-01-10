@@ -12,6 +12,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-LucasGinard-005c94?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://py.linkedin.com/in/lucasginard)</br>
 
 ## 📊Stats/Estadística:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGinard&theme=algolia_icons=true_icons=true&hide=contribs,prs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGinard&layout=compact&theme=algolia_icons=true)](https://github.com/LucasGinard/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasGinard&theme=algolia&show_icons=true_icons=true&hide=contribs,prs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGinard&layout=compact&theme=algolia&show_icons=true)](https://github.com/LucasGinard/github-readme-stats)
 
