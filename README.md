@@ -22,7 +22,9 @@
 ## 🔎Find me at/Encuéntrame en:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/lucasginard/)
 [![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:contactolucasginard@gmail.com)
+</br>
 [![PlayStore](https://img.shields.io/badge/-Play%20Store-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/dev?id=6672316180684879607)
+[![AppStore](https://img.shields.io/badge/-Appstore-black?style=for-the-badge&logo=Appstore)]([https://play.google.com/store/apps/dev?id=6672316180684879607](https://apps.apple.com/us/developer/lucas-ginard/id1677228359))
 </br>
 
 
