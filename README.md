@@ -31,3 +31,5 @@
 ## 📊Stats/Estadística:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGinard&layout=compact&theme=algolia&show_icons=true)](https://github.com/LucasGinard/github-readme-stats)
 
+![](https://github-contributor-stats.vercel.app/api?username=LucasGinard&limit=9&theme=algolia&combine_all_yearly_contributions=true
+)
